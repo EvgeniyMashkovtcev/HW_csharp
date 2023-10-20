@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Homework_csharp_01\bin\Debug\net7.0\Homework_csharp_01.exe
+C:\Users\user\Desktop\Homework_csharp_01\bin\Debug\net7.0\Homework_csharp_01.deps.json
+C:\Users\user\Desktop\Homework_csharp_01\bin\Debug\net7.0\Homework_csharp_01.runtimeconfig.json
+C:\Users\user\Desktop\Homework_csharp_01\bin\Debug\net7.0\Homework_csharp_01.dll
+C:\Users\user\Desktop\Homework_csharp_01\bin\Debug\net7.0\Homework_csharp_01.pdb
+C:\Users\user\Desktop\Homework_csharp_01\obj\Debug\net7.0\Homework_csharp_01.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homework_csharp_01\obj\Debug\net7.0\Homework_csharp_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Homework_csharp_01\obj\Debug\net7.0\Homework_csharp_01.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Homework_csharp_01\obj\Debug\net7.0\Homework_csharp_01.AssemblyInfo.cs
+C:\Users\user\Desktop\Homework_csharp_01\obj\Debug\net7.0\Homework_csharp_01.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homework_csharp_01\obj\Debug\net7.0\Homework_csharp_01.dll
+C:\Users\user\Desktop\Homework_csharp_01\obj\Debug\net7.0\refint\Homework_csharp_01.dll
+C:\Users\user\Desktop\Homework_csharp_01\obj\Debug\net7.0\Homework_csharp_01.pdb
+C:\Users\user\Desktop\Homework_csharp_01\obj\Debug\net7.0\Homework_csharp_01.genruntimeconfig.cache
+C:\Users\user\Desktop\Homework_csharp_01\obj\Debug\net7.0\ref\Homework_csharp_01.dll
